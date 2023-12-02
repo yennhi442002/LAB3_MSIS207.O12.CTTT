@@ -1,0 +1,8 @@
+.divStyle {
+  display: flex;
+  justify-content: center;
+  font-size: 15px;
+  background-color: #d0f0c0;
+  border: 1px solid green;
+  padding: 10px;
+}
